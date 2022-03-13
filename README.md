@@ -1,10 +1,10 @@
 # Covid-19-Dashboard
 
-How to run-
-1- download the files
-2- run index.py on pycharm or any IDE
-3- the link to web app should come up
-NOTE- due to some complications , I could not upload the app to Heroku or on web.
+How to run-<br>
+1- download the files <br>
+2- run index.py on pycharm or any IDE<br>
+3- the link to web app should come up<br>
+NOTE- due to some complications , I could not upload the app to Heroku or on web.<br>
 
 File Structure-
 1- assets - contains css file(I used it from the web itself) and images to upload if any
